@@ -8,6 +8,7 @@ This project focuses on building and evaluating machine learning models to detec
 - Dataset
 - Dependencies
 - Results
+- Source Code
 - Acknowledgements
 
 # Project Overview
@@ -35,6 +36,9 @@ The dataset used in this project is a publicly available credit card transaction
 
 # Results
 The notebook evaluates multiple machine learning models, including Logistic Regression, Decision Trees, Random Forests, and Gradient Boosting. The performance of these models is compared based on metrics like precision, recall, F1-score, and ROC-AUC.
+
+# Source Code
+The source code for this project is maintained in a private repository. For access, please contact kmahali2@asu.edu.
 
 # Acknowledgements
 Special thanks to Kaggle for providing the dataset.
